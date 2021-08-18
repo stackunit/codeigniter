@@ -2,9 +2,9 @@
 
 <a href="https://codeigniter.com/" target="_blanck">Codeigniter Official Website</a>
 
-# MVC Structure
+1. MVC Structure
 
-# Codeigniter File Structure
+2. Codeigniter File Structure
 
 
 
