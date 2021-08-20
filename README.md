@@ -4,10 +4,15 @@
 
 https://github.com/codeigniter4/CodeIgniter4
 
-1. MVC Structure
+1. What is Framework ?
 
-2. Codeigniter File Structure
-
+2. What Is MVC ?
+3. How To Setup Codeigniter
+4. Codeigniter Directory Structure
+5. Codeigniter Controler
+6. Codeigniter Routing
+7. Codeigniter View
+8. Codeigniter Model
 <hr>
 
 <pre>
