@@ -1,6 +1,6 @@
 # PHP Framework Codeigniter 
 
-<img sec="https://codewithpunit.com/image/codewithpunit.jpeg">
+<img src="https://codewithpunit.com/image/codewithpunit.jpeg">
 
 <a href="https://codeigniter.com/" target="_blanck">Codeigniter Official Website</a>
 
