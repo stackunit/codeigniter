@@ -11,7 +11,7 @@ https://github.com/codeigniter4/CodeIgniter4
 <hr>
 
 <pre>
-<?= base_url();?>
+< ?= base_url();? >
 </pre>
 
 
