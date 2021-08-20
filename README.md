@@ -8,5 +8,9 @@ https://github.com/codeigniter4/CodeIgniter4
 
 2. Codeigniter File Structure
 
+<hr>
+
+<?= base_url();?>
+
 
 
