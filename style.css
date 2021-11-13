@@ -1,1 +1,24 @@
+*{ margin: 0; padding: 0; box-sizing: border-box;}
+.bg1{ background-color: aqua;}
+.bg2{ background-color: blueviolet;}
+.bg3{ background-color: brown;}
+header{background-color: #5e5858;}
+header a{ display: block; padding: 1% 5%; font-size: 2em; text-decoration: none; color: white;}
+nav { background-color: tomato;}
+nav ul{ padding: 1% 5%;}
+nav ul li{ display: inline; margin-right: 20px;}
+nav ul li a{ text-decoration: none; color: white; text-transform: uppercase; }
+.mid{ min-height: 80vh; width: 90%; margin: auto; margin-top: 10px;}
+.left{ width: 70%; min-height: 80vh; float: left; background-color: whitesmoke; border: 1px solid rgb(126, 125, 125);}
+.left h1{ font-size: 4em;}
+.left h2{ padding: 1%; background-color: #5e5858; color: white;}
+.card{ width: 31.3%; height: 250px; margin: 1%; float: left;}
+.right{ width: 29%; min-height: 80vh; float: right; background-color: whitesmoke; border: 1px solid rgb(126, 125, 125);}
+.mid_left{ width: 49.50%; height: 80vh; float: left;}
+.mid_right{ width: 49.50%; height: 80vh; float: right; border: 1px solid royalblue;}
+.card_res{ width: 90%; margin: auto; height: 300px;  margin-top: 10px;}
 
+
+
+footer{background-color: #5e5858; clear: both; margin-top: 10px;}
+footer h4{ padding: 1%; color: white; text-align: center;}
